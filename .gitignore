@@ -1,0 +1,8 @@
+﻿/target
+Cargo.lock
+*.pdb
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
